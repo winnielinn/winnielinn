@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Winnie! I am learning course for full stack in Alpha Camp. I want to change jobs in 2021. I have a passion for learning and communicating my ideas with others. Even though I still have many shortcomings, I will try my best to do better in the future. Now, my trip in Program Development will be started.
+I am Winnie! I am learning course for full stack in Alpha Camp. I want to change jobs in 2022. I have a passion for learning and communicating my ideas with others. Even though I still have many shortcomings, I will try my best to do better in the future. Now, my trip in Program Development will be started.
 
 ---
 
