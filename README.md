@@ -2,7 +2,8 @@
 I'm Winnie, a software engineer from Taiwan.
 
 ### 🔭 Recent Project
-[ecommerce-website](https://github.com/winnielinn/ecommerce-website): Built independently an ecommerce website for customers to buy agricultural products owing to my parents from agricultural background.
+[ecommerce-website](https://github.com/winnielinn/ecommerce-website): Owing to my parents from agricultural background, hope that there is one online platform to help them to handle orders. Therefore, I built independently an ecommerce website to meet this need. Additionally, called third-party api (unsplash, newebpay, facebook, google) to make the project more completed in the process of developing.
+
 
 
 ### 🌱 Skill Set
