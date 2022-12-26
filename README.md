@@ -2,7 +2,7 @@
 I'm Winnie, a software engineer from Taiwan.
 
 ### 🔭 Recent Project
-[ecommerce-website](https://github.com/winnielinn/ecommerce-website): Owing to my parents from agricultural background, hope that there is one online platform to help them to handle orders. Therefore, I built independently an ecommerce website to meet this need. Additionally, called third-party api (unsplash, newebpay, facebook, google) to make the project more completed.
+[ecommerce-website](https://github.com/winnielinn/ecommerce-website): Owing to my parents from agricultural background, they hope that there is an online platform to help them to handle orders and products. Therefore, I built independently an ecommerce website to meet this need.
 
 
 
