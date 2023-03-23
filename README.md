@@ -15,7 +15,7 @@ I'm Winnie, a software engineer from Taiwan.
 #### 🔧 Tool
 - Version Control(Git/Github/Gitlab)
 - Power BI
-- Postman
+- Postman/Swagger
 
 ### 📬 Get In Touch
 - Personal Blog: [I'm Winnie](https://winnielinn.github.io/)
