@@ -2,7 +2,7 @@
 I'm Winnie, a software engineer from Taiwan.
 
 ### 🔭 Recent Project
-[joke-generator](https://github.com/winnielinn/joke-generator-line-bot): Build a line bot to send jokes for you to have fun all day.
+[joke-bot](https://github.com/winnielinn/joke-bot): Build a line bot to send jokes for you to have fun all day.
 
 
 
