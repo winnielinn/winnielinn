@@ -4,8 +4,6 @@ I'm Winnie, a software engineer from Taiwan.
 ### 🔭 Recent Project
 [joke-bot](https://github.com/winnielinn/joke-bot): Build a line bot to send jokes for you to have fun all day.
 
-
-
 ### 🌱 Skill Set
 #### 📚 Langues and Frameworks
 - Front-end: HTML5, CSS3, JavaScript(ES6), Handlebars, Bootstrap, Ajax(axios)
@@ -18,7 +16,7 @@ I'm Winnie, a software engineer from Taiwan.
 - Postman/Swagger
 
 ### 📬 Get In Touch
-- Personal Blog: [I'm Winnie](https://winnielinn.github.io/)
+- Tech Notes: [Winnie's Tech Notes](https://winnielin-tech.vercel.app/)
 - LinkedIn: [Winnie Lin](https://www.linkedin.com/in/winnie-lin-8a8924228/)
 - Medium: [@winnie_lin](https://medium.com/@winnie_lin)
 - Email: yaysa903@gmail.com
